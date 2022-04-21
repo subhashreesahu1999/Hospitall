@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SrJWy37pehulr9Y6067/pSx6Q+cJ1GzuH0hJ8oBPW3qpujBXY50DgLC+mQpmn/93FxWpkhKYP5yg11hdHIJWYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\subhashree_sahu\\source\\repos\\HMS\\HMSA\\HMSA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\subhashree_sahu\\.nuget\\packages\\microsoft.web.webview2\\1.0.1222-prerelease\\microsoft.web.webview2.1.0.1222-prerelease.nupkg.sha512"
+  ],
+  "logs": []
+}

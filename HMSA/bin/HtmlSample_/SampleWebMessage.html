@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <h3 id="mssg" style="color: green" align="center"></h3>
+    <p>Enter Name and Feedback</p>
+    <input id="txt" type="text">
+
+    <button onclick="SendMessage()">Submit</button>
+
+    <p id="demo"></p>
+
+
+    <script>
+        function SendMessage() {
+            var val = document.getElementById("txt").value;
+            window.chrome.webview.postMessage(val);
+        }
+
+        function MessageReceived(Message) {
+            document.getElementById("mssg").innerHTML = "Welcome" + Message + "!!!";
+
+        }
+    </script>
+
+</body>
+</html>
