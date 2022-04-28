@@ -110,7 +110,7 @@ namespace HMSA
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.label1.Font = new System.Drawing.Font("Britannic Bold", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(260, 14);
+            this.label1.Location = new System.Drawing.Point(266, 16);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(376, 31);
             this.label1.TabIndex = 7;
